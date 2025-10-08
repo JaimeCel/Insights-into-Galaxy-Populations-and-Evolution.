@@ -7,22 +7,29 @@ This notebook analyzes mock galaxy catalogues from the Euclid mission, combining
 ---
 
 ## Workflow  
-1. **Load & preprocess** mock catalogue (RA, Dec, redshift, magnitude, color).  
-2. **Visualize** sky distribution and clustering using **HEALPix maps**.  
-3. Compute luminosity function and compare to Schechter model.  
-4. Compare results across galaxy populations and redshift bins.
+1. Load and preprocess mock catalogue (Position, redshift, magnitude, color).  
+2. Visualize sky distribution and clustering using Healpix maps.  
+3. Compute luminosity density function and compare to Schechter model.  
+4. Visualize evolution of magniude with redshift.
+5. Galaxy color distribution fitted with a 3-component Gaussian Mixture Model, representing blue, green, and red galaxy populations.
 
 ---
 
 ## Key Findings  
-- Galaxy distribution traces realistic **cosmic web structures**.  
-- The **luminosity function** fits the Schechter form well.  
-- Evidence of **color bimodality** (red vs. blue galaxies).  
+- Galaxy distribution traces realistic structures.  
+- The luminosity defnsity function fits the Schechter form well.  
+- Evidence of color bimodality (red vs. blue galaxies).  
 
 ---
 
 ## Tools  
-`numpy`, `pandas`, `matplotlib`, `healpy`, `astropy`, `scipy`
+`numpy`, `numpy`, `matplotlib`, `healpy`, `astropy`, `scipy`
+Tools I used in this project.
+-`numpy`
+-`pandas`
+-`matplotlib`
+-`healpy`
+-`scipy`
 
 ---
 
