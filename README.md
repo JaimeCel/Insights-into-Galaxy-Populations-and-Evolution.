@@ -18,13 +18,12 @@ This notebook analyzes mock galaxy catalogues from the Euclid mission, combining
 ## Key Findings  
 - Galaxy distribution traces realistic structures.  
 - The luminosity defnsity function fits the Schechter form well.  
-- Evidence of color bimodality (red vs. blue galaxies).  
+- Fitting three Gaussians accurately represents the observed structure of the galaxy color distribution.  
 
 ---
 
 ## Tools  
-`numpy`, `numpy`, `matplotlib`, `healpy`, `astropy`, `scipy`
-Tools I used in this project.
+Tools used in this project.
 -`numpy`
 -`pandas`
 -`matplotlib`
@@ -34,6 +33,4 @@ Tools I used in this project.
 ---
 
 ## Run it  
-```bash
-pip install numpy pandas matplotlib healpy astropy scipy
-jupyter notebook "Insights into Galaxy Populations and Evolution..ipynb"
+The dataset is stored in a Google Drive folder for size issues. You can download it from this link [Dataset](https://drive.google.com/drive/u/2/folders/1Oz0DOG_BYBbVujZoVqq1rNmfubJUVvoz)
