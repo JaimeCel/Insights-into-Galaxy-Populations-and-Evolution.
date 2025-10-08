@@ -15,7 +15,7 @@ This notebook analyzes mock galaxy catalogues from the Euclid mission, combining
 
 ---
 
-## Key Findings  
+## Results  
 - Galaxy distribution traces realistic structures.  
 - The luminosity defnsity function fits the Schechter form well.  
 - Fitting three Gaussians accurately represents the observed structure of the galaxy color distribution.  
@@ -32,5 +32,5 @@ Tools used in this project.
 
 ---
 
-## Run it  
+## notes 
 The dataset is stored in a Google Drive folder for size issues. You can download it from this link [Dataset](https://drive.google.com/drive/u/2/folders/1Oz0DOG_BYBbVujZoVqq1rNmfubJUVvoz)
