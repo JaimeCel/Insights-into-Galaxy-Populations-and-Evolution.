@@ -32,5 +32,5 @@ Tools used in this project.
 
 ---
 
-## notes 
+## Notes 
 The dataset is stored in a Google Drive folder for size issues. You can download it from this link [Dataset](https://drive.google.com/drive/u/2/folders/1Oz0DOG_BYBbVujZoVqq1rNmfubJUVvoz)
